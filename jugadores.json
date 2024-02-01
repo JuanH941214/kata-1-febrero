@@ -1,0 +1,34 @@
+{"jugadores": [
+	{
+		"nom":"juan",
+		"madera":1,
+		"lana":1,
+		"cereales":1,
+		"arcilla":1,
+		"metal":1,
+		"compras":{
+			"poblado":0
+		}
+		
+	},
+	{
+		"nom":"camila",
+		"madera":1,
+		"lana":1,
+		"cereales":1,
+		"arcilla":1,
+		"meta":1
+	},
+	{
+		"nom":"andrea",
+		"madera":1,
+		"lana":1,
+		"cereales":1,
+		"arcilla":1,
+		"meta":1
+	}
+  
+	
+    ]
+
+}    
